@@ -67,7 +67,7 @@ class MainActivity : Activity(), Handler.Callback {
                 startActivity(
                     Intent(
                         ACTION_VIEW,
-                        Uri.parse("https://github.com/BryanGIG/LibDumper")
+                        Uri.parse("https://github.com/akiravjp/LibDumper")
                     )
                 )
             }
